@@ -21,7 +21,7 @@
     "typescript": "~3.9.7"
   },
   "dependencies": {
-    "aws-cdk-lib": "2.27.0",
+    "aws-cdk-lib": "2.80.0",
     "cdk-amazon-chime-resources": "0.1.21",
     "constructs": "^10.0.0",
     "react": "^17.0.2",
